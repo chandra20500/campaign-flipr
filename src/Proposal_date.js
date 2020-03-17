@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import './proposal_date.css';
+import './stylesheets/proposal_date.css';
 class Proposal_date extends Component{
     render(){
         return(

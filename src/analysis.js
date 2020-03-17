@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import './analysis.css';
+import './stylesheets/analysis.css';
 import logo_analsis from './assets/pie-chart.svg';
 import age_distribution from './assets/age_distribution.png';
 import gender_distribution from './assets/gender_distribution.png';

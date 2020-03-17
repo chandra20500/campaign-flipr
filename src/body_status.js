@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import Proposal_date from './Proposal_date.js';
-import './body_status.css';
+import './stylesheets/body_status.css';
 import yt from'./assets/yt.png';
 import T_body from './table_body';
 import Overall_stats from './overall_stats.js';

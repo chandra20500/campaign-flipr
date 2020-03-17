@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
 import Topbar_status from './topbar_status.js';
 import Body_status from './body_status.js';
-import './status.css';
+import './stylesheets/status.css';
 
 class Status extends Component{
     render(){

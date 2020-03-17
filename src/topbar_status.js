@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import icon from './assets/Capture.PNG';
-import './topbar_status.css';
+import './stylesheets/topbar_status.css';
 
 class Topbar_status extends Component{
     render(){

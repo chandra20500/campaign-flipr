@@ -1,5 +1,5 @@
 import React,{Component} from'react'
-import './overall_stats.css';
+import './stylesheets/overall_stats.css';
 
 class Overall_stats extends Component{
     render(){
