@@ -1,0 +1,47 @@
+.menu_campaign{
+    /* border: 2px solid black; */
+    height: 100%;
+    width: 15%;
+    position: relative;
+    padding-top: 1.5rem;
+}
+.logo_campaign img{
+    height: 1rem;
+    transform: translateX(20%);
+}
+.logo_campaign{
+    color: #D5B5FB;
+}
+.logo_campaign i{
+    font-size: 1.2rem;
+}
+.option_campaign{
+    /* border: 2px solid black; */
+    width: 100%;
+    margin-top: 10%;
+    cursor: pointer;
+}
+.option_campaign i{
+    float: left;
+    font-size: 1rem;
+    color: #757575;
+    /* border: 2px solid black; */
+    transform: translateY(70%);
+}
+.option_campaign p{
+    /* border: 2px solid black; */
+    transform: translateY(70%);
+    margin-left: 2rem;
+    font-size: 0.7rem;
+    color: #757575;
+    font-weight: 500;
+    margin-top: 2rem;
+}
+#active{
+    color: blue;
+}
+#active i{
+    font-size: 1rem;
+    color: blue;
+    transform: translateY(80%);
+}
