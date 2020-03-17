@@ -1,0 +1,12 @@
+.disclaimer_container{
+    padding-top: 2rem;
+    /* border: 2px solid black; */
+}
+.disclaimer_h{
+    font-weight: bold;
+    margin-left: 0;
+    font-size: 1rem;
+}
+.disclaimer_container p{
+    font-size: 0.8rem;
+}

@@ -1,0 +1,91 @@
+.container_overall_stats{
+    height: 80%;
+    /* border: 2px solid black; */
+}
+.container_overall_stats .colored_box_stats{
+    width: 78%;
+    height: 100%;
+    float: left;
+    /* border: 2px solid black; */
+}
+.red_colored_box_stats{
+    background-color: #F06363;
+    color: #ffffff;
+    border-radius:5px;
+    margin-left: 8%;
+    height: 40%;
+    width: 25%;
+    float: left;
+    padding-top: 0.8rem;
+    font-size: 0.8rem;
+}
+.red_colored_box_stats p{
+    margin-left:10%;
+}
+.blue_colored_box_stats{
+    background-color: #1DA1F2;
+    color: #ffffff;
+    border-radius:5px;
+    margin-left: 5%;
+    float: left;
+    height: 40%;
+    width: 25%;
+    padding-top: 0.8rem;
+    font-size: 0.8rem;
+}
+.blue_colored_box_stats p{
+    margin-left:10%;
+}
+.green_colored_box_stats{
+    background-color: #2FC996;
+    color: #ffffff;
+    border-radius:5px;
+    margin-left: 5%;
+    float: left;
+    height: 40%;
+    width: 25%;
+    padding-top: 0.8rem;
+    font-size: 0.8rem;
+}
+.green_colored_box_stats p{
+    margin-left:10%;
+}
+.purple_colored_box_stats{
+    background-color: #D342D9;
+    color: #ffffff;
+    border-radius:5px;
+    margin-left: 8%;
+    float: left;
+    height: 40%;
+    width: 25%;
+    margin-top: 1rem;
+    padding-top: 0.8rem;
+    font-size: 0.8rem;
+}
+.purple_colored_box_stats p{
+    margin-left:10%;
+}
+.gender_stats{
+    /* border: 2px solid rgb(218, 212, 212); */
+    width: 20%;
+    height: 80%;
+    float:right;
+}
+.male_gender_stats{
+    font-size: 1.8rem;
+    color: #7E95A1;
+}
+.female_gender_stats{
+    font-size: 1.8rem;
+    color: #7E95A1;
+}
+.male_gender_stats i{
+    color: #9579F6;
+    font-size: 2rem;
+    margin-right: 1rem;
+}
+.female_gender_stats i{
+    color: #F34FFF;
+    font-size: 2rem;
+    margin-right: 1rem;
+}
