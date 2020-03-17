@@ -5,6 +5,7 @@ import yt from'./assets/yt.png';
 import T_body from './table_body';
 import Overall_stats from './overall_stats.js';
 import Disclaimer from './disclaimer.js';
+import Analysis_stats from './analysis.js';
 
 class Body_status extends Component{
     render(){
@@ -105,6 +106,7 @@ class Body_status extends Component{
                     </div>
                 </div>
                     <div className="overall_stats">
+                        <Analysis_stats />
                         <p>
                             <strong>Overall Stats</strong>
                         </p>
